@@ -147,7 +147,7 @@ Implements 5 common activation functions and their derivatives, supports both sc
 - For gradient correctness validation: call `ComparisonTest()` function
 - You can adjust network structure, training epochs, learning rate, activation function type and other parameters in the code
 
-## Project Highlights (For Resume)
+## Project Highlights
 
 1. Designed and implemented a high-performance matrix operation library from scratch using C++, without relying on any third-party linear algebra libraries, which is the core computing foundation of the neural network.
 2. Built a complete MLP neural network based on directed graph structure, implemented Kahn algorithm for topological sorting to ensure the correct execution order of forward and backward propagation.
